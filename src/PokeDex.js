@@ -18,8 +18,7 @@ const PokeDex = (props)=>{
     }
 
     return(
-        <div className = "pokeDex">
-            <p>This is a pokeDex</p>
+        <div className = "PokeDex">
             {pokeList}
         </div>
     )
